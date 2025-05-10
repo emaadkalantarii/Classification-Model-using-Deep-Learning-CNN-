@@ -1,0 +1,8 @@
+# This is the `requirements.txt` icluding the necessary packages and libraries.
+# You can test it yourself by running `pip install -r requirements.txt` in a new virtual environment.
+
+torch>=2.4.0
+numpy>=2.2.0
+scikit-learn>=1.6
+pandas>=2.2.3
+
